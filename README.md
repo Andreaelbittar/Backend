@@ -1,2 +1,4 @@
-# my-movie-app
+## Autor: Andrea Elbittar
+----
+
 # Backend
